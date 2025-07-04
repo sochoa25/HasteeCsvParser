@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CustomerTypeA": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\Data\\customerTypeA.csv customerTypeA"
+    },
+    "CustomerTypeB": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\Data\\customerTypeB.csv customerTypeB"
+    }
+  }
+}
